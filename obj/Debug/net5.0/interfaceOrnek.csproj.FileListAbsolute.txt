@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.exe
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.deps.json
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.dll
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\ref\interfaceOrnek.dll
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.pdb
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.dll
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\ref\interfaceOrnek.dll
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.pdb
+C:\Users\ferhan\Desktop\Pratikler\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.genruntimeconfig.cache
